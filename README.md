@@ -1,5 +1,11 @@
 ### Hi there 👋 
 ### My name is Bob
+I am a student who lives on Mars.
+
+I'm intersted in Marxist philosophy and social psychology and I'm particularly interested in the history of World War II. If you want to communicate with me, you can take the following contact information
+
+---
+
 
 [![Email](https://img.shields.io/badge/Email-yinghanwen2007@gmail.com-57c4e5?style=flat-square&logoColor=fff)](mailto:yinghanwen2007@gmail.com)
 
