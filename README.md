@@ -11,7 +11,7 @@ I'm intersted in Marxist philosophy and social psychology and I'm particularly i
 [![Email](https://img.shields.io/badge/Email-yinghanwen2007@sina.com-yellow?style=flat-square&logoColor=fff)](mailto:yinghanwen2007@sina.com)
 [![BiliBili](https://img.shields.io/badge/BiliBili-Bob-pink?style=flat-square&logoColor=fff)](https://space.bilibili.com/493839963)
 [![Telegram](https://img.shields.io/badge/Telegram-Bob-blue?style=flat-sqaure&logoColor=fff)](https://t.me/bob_ying)
-[![Blog](https://img.shields.io/badge/blog-yinghanwen.github.io-orange?style=flat-sqaure&logoColor=fff)](https://yinghanwen.github.io)
+[![Blog](https://img.shields.io/badge/blog-blog.beimo2007.top-orange?style=flat-sqaure&logoColor=fff)](https://blog.beimo2007.top)
 
 ---
 
