@@ -53,11 +53,3 @@ I'm intersted in Marxist philosophy and social psychology and I'm particularly i
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
----
-
-### 🤖*Project Navigation*
-
-[![Quinta](https://github-readme-stats.vercel.app/api/pin/?username=yinghanwen&repo=Quinta&show_owner=true&hide_border=true)](https://github.com/yinghanwen/Quinta)
-
-[![WhiteFlagBot](https://github-readme-stats.vercel.app/api/pin/?username=yinghanwen&repo=WhiteFlagBot&show_owner=true&hide_border=true)](https://github.com/yinghanwen/WhiteFlagBot)
