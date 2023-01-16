@@ -1,9 +1,14 @@
 ### Hi there 👋 
 ### My name is Bob
-I am a student who lives on Mars.
 
-I'm intersted in Marxist philosophy and social psychology and I'm particularly interested in the history of World War II. If you want to communicate with me, you can take the following contact information
 
+
+- 🔭 I’m currently working on Darlene and Mernel
+- 👯 I’m looking to collaborate on Mernel
+- 💬 Ask me about Darlene and Mernel
+- 😄 Pronouns: Solitude Bob Beimo
+
+### 📱*How to contract me* 
 ---
 
 
@@ -11,6 +16,7 @@ I'm intersted in Marxist philosophy and social psychology and I'm particularly i
 [![Email](https://img.shields.io/badge/Email-yinghanwen2007@sina.com-yellow?style=flat-square&logoColor=fff)](mailto:yinghanwen2007@sina.com)
 [![BiliBili](https://img.shields.io/badge/BiliBili-Bob-pink?style=flat-square&logoColor=fff)](https://space.bilibili.com/493839963)
 [![Telegram](https://img.shields.io/badge/Telegram-Bob-blue?style=flat-sqaure&logoColor=fff)](https://t.me/bob_ying)
+[![Telegram](https://img.shields.io/badge/Telegram-Solitude-blue?style=flat-sqaure&logoColor=fff)](https://t.me/solitude233)
 [![Blog](https://img.shields.io/badge/blog-blog.beimo2007.top-orange?style=flat-sqaure&logoColor=fff)](https://blog.beimo2007.top)
 
 ---
@@ -53,3 +59,5 @@ I'm intersted in Marxist philosophy and social psychology and I'm particularly i
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+<!--SAR>
