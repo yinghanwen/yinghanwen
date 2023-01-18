@@ -3,9 +3,8 @@
 
 
 
-- 🔭 I’m currently working on Darlene and Mernel
-- 👯 I’m looking to collaborate on Mernel
-- 💬 Ask me about Darlene and Mernel
+- 🔭 I’m currently working on Darlene and Solitux
+- 💬 Ask me about Darlene
 - 😄 Pronouns: Solitude Bob Beimo
 
 ### 📱*How to contract me* 
