@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on Darlene and Solitux
+- 🔭 I’m currently working on arashi
 - 💬 Ask me about Darlene
 - 😄 Pronouns: Solitude Bob Beimo
 
